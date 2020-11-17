@@ -12,6 +12,10 @@ func Fib(n int) int {
 	return x + y
 }
 
+// golden rate r
+// T_inf(n) = T_inf(n-1) + Θ(1)
+//          = Θ(n)
+// DOP Θ(r^n/n)
 func FibParallel(n int) int {
 	if n <= 1 {
 		return n

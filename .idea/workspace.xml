@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be226a00-8cb0-4afa-a83c-b32bbdd92c90" name="Default Changelist" comment="&lt;REMOV&gt;">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mulalg/matdot.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mulalg/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mulalg/transpose.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/matdot_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/transpose_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulalg/fib.go" beforeDir="false" afterPath="$PROJECT_DIR$/mulalg/fib.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulalg/matvec.go" beforeDir="false" afterPath="$PROJECT_DIR$/mulalg/matvec.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulalg/sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/mulalg/sum.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/matvec_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/matvec_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kE4Sv4lYJkn6F5cp8BhWyTgBLS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Test.gobench sort_test.go">
+    <configuration name="TestMergeSort in test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Multithreading-algorithm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMergeSort\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench matvec_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Multithreading-algorithm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/matvec_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench sort_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Multithreading-algorithm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/sort_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matvec_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Multithreading-algorithm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/matvec_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Multithreading-algorithm" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/sort_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.gobench matvec_test.go" />
+      <item itemvalue="Go Test.matvec_test.go" />
+      <item itemvalue="Go Test.TestMergeSort in test" />
+      <item itemvalue="Go Test.sort_test.go" />
+      <item itemvalue="Go Test.gobench sort_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.gobench sort_test.go" />
+        <item itemvalue="Go Test.sort_test.go" />
+        <item itemvalue="Go Test.TestMergeSort in test" />
+        <item itemvalue="Go Test.gobench matvec_test.go" />
+        <item itemvalue="Go Test.matvec_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&lt;ADD&gt; 3 algs" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;ADD&gt; 3 algs" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="212" key="#Go_Modules" timestamp="1605252662526">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="212" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1605252662526" />
+    <state x="219" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605346030867">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="219" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1605346030867" />
+    <state x="495" y="52" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605339271245">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="495" y="52" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.834@0.0.1536.834" timestamp="1605339271245" />
+    <state width="1485" height="264" key="GridCell.Tab.0.bottom" timestamp="1605604184093">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="264" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605604184093" />
+    <state width="1485" height="264" key="GridCell.Tab.0.center" timestamp="1605604184092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="264" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605604184092" />
+    <state width="1485" height="264" key="GridCell.Tab.0.left" timestamp="1605604184092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="264" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605604184092" />
+    <state width="1485" height="264" key="GridCell.Tab.0.right" timestamp="1605604184092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="264" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605604184092" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1605369320728">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="183" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605369320728" />
+    <state x="261" y="86" key="Vcs.Push.Dialog.v2" timestamp="1605413775876">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="86" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605413775876" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1605603574943">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1605603574943" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$TestFibp_in_mulalg.out" NAME="TestFibp in mulalg Coverage Results" MODIFIED="1605258952873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkFib_in_mulalg.out" NAME="BenchmarkFib in mulalg Coverage Results" MODIFIED="1605268389384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$alg_test_go__1_.out" NAME="alg_test.go (1) Coverage Results" MODIFIED="1605268010841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkSum_in_test.out" NAME="BenchmarkSum in test Coverage Results" MODIFIED="1605341707775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkSum_in_mulalg.out" NAME="BenchmarkSum in mulalg Coverage Results" MODIFIED="1605338346763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$gobench_alg_test_go__1_.out" NAME="gobench alg_test.go (1) Coverage Results" MODIFIED="1605336449038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$TestMatvec_in_test.out" NAME="TestMatvec in test Coverage Results" MODIFIED="1605422762562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$TestFib_in_mulalg.out" NAME="TestFib in mulalg Coverage Results" MODIFIED="1605258981261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkSumP_in_test.out" NAME="BenchmarkSumP in test Coverage Results" MODIFIED="1605345421963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$gobench_fib_test_go.out" NAME="gobench fib_test.go Coverage Results" MODIFIED="1605341977928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$gobench_sum_test_go.out" NAME="gobench sum_test.go Coverage Results" MODIFIED="1605346467705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkFib_p_in_mulalg.out" NAME="BenchmarkFib_p in mulalg Coverage Results" MODIFIED="1605336758236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$TestFibp_in_mulalg__1_.out" NAME="TestFibp in mulalg (1) Coverage Results" MODIFIED="1605267963148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$gobench_alg_test_go.out" NAME="gobench alg_test.go Coverage Results" MODIFIED="1605338152116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$fib_test_go.out" NAME="fib_test.go Coverage Results" MODIFIED="1605346476499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$BenchmarkFib_p_in_mulalg__1_.out" NAME="BenchmarkFib_p in mulalg (1) Coverage Results" MODIFIED="1605327428678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Multithreading_algorithm$alg_test_go.out" NAME="alg_test.go Coverage Results" MODIFIED="1605324685101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

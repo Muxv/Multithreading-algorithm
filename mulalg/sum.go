@@ -14,6 +14,7 @@ func Sum() int {
 	return total
 }
 
+// DOP Θ(n/1) = Θ(n)
 func SumParallel() int {
 	nCPU := runtime.GOMAXPROCS(0)
 	ch := make(chan int)
